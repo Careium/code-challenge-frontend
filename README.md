@@ -21,7 +21,7 @@ The InSight lander uses Sol - mission days - instead of normal dates.
 # Tech requirements
 - React
 - Tests (we like [Jest](https://jestjs.io))
-- Linter (we like [Prettier] (https://prettier.io))
+- Linter (we like [Prettier](https://prettier.io))
 - CSSinJS is a plus, but not a requirement ([JSS](https://cssinjs.org/react-jss/), [styled-components](https://www.styled-components.com))
 
 
