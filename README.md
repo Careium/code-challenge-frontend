@@ -8,7 +8,7 @@ The InSight lander uses Sol - mission days - instead of normal dates.
 
 # Requirements
 
-- [ ] We want to pull data from the [NASA InSight Mars lander weather API](https://mars.nasa.gov/insight/weather/)
+- [ ] We want to pull data from the [NASA InSight Mars lander weather API](https://api.nasa.gov)
 - [ ] We want to see a weekly weather overview
 - [ ] For each Sol we want to see
   - [ ] Sol date
