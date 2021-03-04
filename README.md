@@ -1,21 +1,20 @@
-Weather of Mars
+Frontend challenge
 ====
 
 ![](https://images.unsplash.com/photo-1573588028698-f4759befb09a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2690&q=80)
 
-NASA’s InSight Mars lander takes continuous weather measurements (temperature, wind, pressure) on the surface of Mars at Elysium Planitia, a flat, smooth plain near Mars’ equator.
-The InSight lander uses Sol - mission days - instead of normal dates.
+Unsplash is the internet’s premium source of freely-usable images. 
+Create a nice-looking application that allows browsing of curated images from Unsplash.
 
 # Requirements
 
-- [ ] We want to pull data from the [NASA InSight Mars lander weather API](https://api.nasa.gov/assets/insight/InSight%20Weather%20API%20Documentation.pdf)
-- [ ] We want to see a weekly weather overview
-- [ ] For each Sol we want to see
-  - [ ] Sol date
-  - [ ] Earth date
-  - [ ] Weather details 
-- [ ] We want to see a loading indicator while waiting for data to load
-- [ ] We want to be able to use the app on mobile as well as desktop, with mobile being the most important.
+- [ ] Use the Unsplash API - docs here to set up a developer account: https://unsplash.com/documentation.
+
+- [ ] We want to see a grid overview, use the GET /photos/curated endpoint from the Unsplash API to get a set of curated images
+- [ ] The application should be responsive and work both in portrait and landscape modes, on both desktop and mobile.
+- [ ] The application should support infinite scrolling using a lazy-load to fetch new images as the user scrolls.
+- [ ] The user can click on a grid element to get a full-width representation of the image with additional meta data.
+- [ ] The user can navigate to previous or next full-width representation without having to close that view.
 
 # Tech requirements
 - React
@@ -25,7 +24,7 @@ The InSight lander uses Sol - mission days - instead of normal dates.
 
 
 # Your challenge
-- Create a React app that satisfies all the requirements listed above. If you have ideas for nice-to-have features you are welcome to add them.
+- Create a React app that satisfies all the requirements listed above. If you have ideas for nice-to-have features you are encouraged to add them. Surprise us! 
 - You can use any boilerplate and tools that you want to (NextJS, CRA etc) but we advice you to keep it simple. A clean, robust react app is what we're looking for, and we're usually in favor of using all available tools and tricks to get things done.
 - Modern browsers, no weird legacy
 - You can deploy your app on whatever cloud provider you wish (zeit, heroku, gcp etc)
@@ -43,7 +42,6 @@ We expect you talk talk about
 -----------------------------
 
 - Description of solution.
-- Whether the solution focuses on back-end, front-end or if it's full stack.
 - Reasoning behind your technical choices, including architectural. 
 - Trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project.
 - Link to to the hosted application where applicable.
