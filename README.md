@@ -10,7 +10,7 @@ Create a nice-looking application that allows browsing of curated images from Un
 
 - [ ] Use the Unsplash API - docs here to set up a developer account: https://unsplash.com/documentation.
 
-- [ ] We want to see a grid overview, use the GET /photos/curated endpoint from the Unsplash API to get a set of curated images
+- [ ] We want to see a grid overview, use the GET /photos/photos endpoint from the Unsplash API to get a set of images.
 - [ ] The application should be responsive and work both in portrait and landscape modes, on both desktop and mobile.
 - [ ] The application should support infinite scrolling using a lazy-load to fetch new images as the user scrolls.
 - [ ] The user can click on a grid element to get a full-width representation of the image with additional meta data.
@@ -35,6 +35,7 @@ Create a nice-looking application that allows browsing of curated images from Un
 - Build a clean and robust React app
 - Publish the app on your chosen cloud provider
 - Let us know that you've completed the challenge
+
 
 # When we talk
 
