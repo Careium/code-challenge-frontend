@@ -29,6 +29,14 @@ Create a nice-looking application that allows browsing of curated images from Un
 - Modern browsers, no weird legacy
 - You can deploy your app on whatever cloud provider you wish (zeit, heroku, gcp etc)
 
+# Extra
+
+Before we talk:
+- Do surprise us, we love it
+- Guide us throw what you did; in commits or other way
+- So we like you (probably since you did the challenge): But what stands out, why you?
+
+
 # Instructions
 
 - Fork this repo
