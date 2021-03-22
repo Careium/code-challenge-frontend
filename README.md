@@ -33,7 +33,7 @@ Create a nice-looking application that allows browsing of curated images from Un
 
 Before we talk:
 - Do surprise us, we love it
-- Guide us throw what you did; in commits or other way
+- Guide us through what you did; in commits or other way
 - So we like you (probably since you did the challenge): But what stands out, why you?
 
 
