@@ -39,7 +39,7 @@ Before we talk:
 
 # Instructions
 
-- Fork this repo
+- Fork this repo, or if you don't want to leave trails make a private one that you invites us to
 - Build a clean and robust React app
 - Publish the app on your chosen cloud provider
 - Let us know that you've completed the challenge
